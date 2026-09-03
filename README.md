@@ -10,7 +10,7 @@ The project simulates a simple telemetry monitoring system that checks:
 
 If one or more values exceed the defined thresholds, the system reports the corresponding warning through the Serial Monitor.
 
-![Arduino Warning System](images/warning_system.jpg)
+![Arduino Warning System](asset/image1.jpg)
 
 ## Features
 
